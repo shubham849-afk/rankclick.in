@@ -32,6 +32,9 @@ export const metadata: Metadata = {
   description:
     "Rankclick delivers SEO-friendly digital marketing, PPC campaigns, and creative growth strategies for ambitious businesses.",
   keywords: ["digital marketing", "SEO", "PPC", "content marketing", "brand growth", "Rankclick"],
+  icons: {
+    icon: "/favicon.svg",
+  },
   openGraph: {
     title: "Rankclick | Digital Marketing Agency",
     description:
